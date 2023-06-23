@@ -1,6 +1,6 @@
+![I am web developer](https://i.ibb.co/rH9NCCy/Blue-Pink-Gradient-Fashion-Banner-1.png)
 ### Hi there 👋, I am ajoy biswas
 #### I am web developer
-![I am web developer](https://i.ibb.co/rH9NCCy/Blue-Pink-Gradient-Fashion-Banner-1.png)
 
 As an accomplished web developer, I have successfully done various projects. My skill set is
 mainly front-end development where i am an expert in HTML5, CSS3, Javascript, and the
