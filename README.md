@@ -14,7 +14,7 @@ Skills: ✔ REACT ✔HTML ✔ CSS✔javascript✔Express js✔MongoDb
 - 📫 How to reach me: ajoypust@gmail.com 
 
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> 
+<a href='https://github.com/ajoy45'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> </a>
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
 
