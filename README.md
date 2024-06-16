@@ -8,7 +8,7 @@ framework React.js. Also, I am comfortable with MongoDB,Node.js,Express.js. I am
 learn new technologies and always looking for ways to improve my skills. I am a quick learner
 and adapt to the new environment.
 
-Skills: ✔ REACT ✔HTML ✔ CSS✔javascript✔Express js✔MongoDb
+Skills: ✔ REACT ✔HTML ✔ CSS✔javascript✔Express js✔MongoDb ✔scss
 
 - 🌱 I’m currently learning Next js 
 - 📫 How to reach me: ajoypust@gmail.com 
